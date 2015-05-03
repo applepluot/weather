@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/achow/Developer/Umbrella/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/achow/Developer/Umbrella/app/build/intermediates/pre-dexed/debug/classes-472909fa6e1ada49dcaa6f883db4e4a5bbe38fe9.jar" />
+    </item>
+    <item
+        jar="/Users/achow/Developer/Weather/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/achow/Developer/Weather/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-3a48d683c3656c4d8ee55c54ffc2a3573e89e1cc.jar" />
+    </item>
+    <item
+        jar="/Users/achow/Developer/Umbrella/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/achow/Developer/Umbrella/app/build/intermediates/pre-dexed/debug/classes-151c95cb2fa6a1cb0f5177fa88906c89e4c6e036.jar" />
+    </item>
+    <item
+        jar="/Users/achow/Developer/Weather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/achow/Developer/Weather/app/build/intermediates/pre-dexed/debug/classes-3d5bebf2b2eace442bfca9cf7547e729d611c17c.jar" />
+    </item>
+    <item
+        jar="/Users/achow/Developer/Umbrella/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/achow/Developer/Umbrella/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-e62f740041d4cfc746ec38ff6d75c36d19cf40b8.jar" />
+    </item>
+    <item
+        jar="/Users/achow/Developer/Weather/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/achow/Developer/Weather/app/build/intermediates/pre-dexed/debug/classes-aea1168c53df137fd9f55af9cfa1b1720df29e03.jar" />
+    </item>
+    <item
+        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/achow/Developer/Umbrella/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-ce93db4b6b2d25aefad19f2cd870d7e782c6dbea.jar" />
+    </item>
+    <item
+        jar="/Users/achow/Developer/Weather/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/achow/Developer/Weather/app/build/intermediates/pre-dexed/debug/classes-1be41438a9b7f5c8134491e1e00019d54fdaf336.jar" />
+    </item>
+
+</items>
